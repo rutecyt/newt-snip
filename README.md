@@ -1,4 +1,4 @@
 # Charts API Ex.
 
-`npm install`
+`npm install`\
 `npm run start`
